@@ -23,6 +23,12 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 |------|------|:--:|
 | [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | 多模型独立审查 SOP · Prompt 模板 · 对抗式挑战框架 | [![published](https://img.shields.io/badge/status-published-blue)]() |
 
+### Dev Tools
+
+| Project | What it is | Status |
+|------|------|:--:|
+| [**Claude Skills**](https://github.com/redamancy231-create/claude-skills) | 3 个实战验证的 Claude Code Skill — 会话交接 · CLAUDE.md 编写 · 事前否决 | [![published](https://img.shields.io/badge/status-published-blue)]() |
+
 ### Quant Engineering
 
 | Project | What it is | Status |
@@ -42,6 +48,7 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 
 - **New to Human-AI collaboration?** → [AI 协作框架](https://github.com/redamancy231-create/ai-collaboration-framework)
 - **Looking for review SOPs and prompt templates?** → [Independent Review Toolkit](https://github.com/redamancy231-create/independent-review-toolkit)
+- **Want battle-tested Claude Code Skills?** → [Claude Skills](https://github.com/redamancy231-create/claude-skills)
 - **Interested in quant engineering?** → [ETF Pattern Match — pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)
 - **Building academic pipelines with LLMs?** → [M&A Case Study Pipeline](https://github.com/redamancy231-create/ma-case-study-pipeline)
 
@@ -60,7 +67,7 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 
 **我构建可复现的人类-AI协作框架、量化工程工具和多模型 LLM 审查管道。**
 
-我是金融工程本科生，把项目当作对照实验来跑。5 个仓库均经过跨模型独立审查（50+ 轮、5 个 LLM 后端）的实战验证。
+我是金融工程本科生，把项目当作对照实验来跑。6 个仓库均经过跨模型独立审查（50+ 轮、5 个 LLM 后端）的实战验证。
 
 所有仓库均为中英双语（zh-CN / zh-Hant / EN）。方法论仓库使用 `en/` 和 `zh-Hant/` 独立完整翻译；代码仓库使用内联双语 + 中文可折叠。
 
@@ -73,7 +80,7 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 
 **我構建可再現的人類-AI協作框架、量化工程工具和多模型 LLM 審查管道。**
 
-我是金融工程本科生，把專案當作對照實驗來跑。5 個倉庫均經過跨模型獨立審查（50+ 輪、5 個 LLM 後端）的實戰驗證。
+我是金融工程本科生，把專案當作對照實驗來跑。6 個倉庫均經過跨模型獨立審查（50+ 輪、5 個 LLM 後端）的實戰驗證。
 
 所有倉庫均為中英雙語（zh-CN / zh-Hant / EN）。方法論倉庫使用 `en/` 和 `zh-Hant/` 獨立完整翻譯；代碼倉庫使用內聯雙語 + 中文可折疊。
 
