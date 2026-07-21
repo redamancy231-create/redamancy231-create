@@ -4,8 +4,6 @@
 
 I'm a financial engineering undergrad who treats projects as controlled experiments. My repos are battle-tested through 50+ rounds of cross-model independent review across 5 LLM backends.
 
-[Open to collaboration](#--lets-connect) · [Start here](#--start-here)
-
 ---
 
 ## 🚀 Projects
@@ -75,8 +73,6 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 
 所有仓库均为中英双语（zh-CN / zh-Hant / EN）。方法论仓库使用 `en/` 和 `zh-Hant/` 独立完整翻译；代码仓库使用内联双语 + 中文可折叠。
 
-[开放合作](#--lets-connect) · [从哪里开始](#--start-here)
-
 </details>
 
 <details>
@@ -87,7 +83,5 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 我是金融工程本科生，把專案當作對照實驗來跑。8 個倉庫均經過跨模型獨立審查（50+ 輪、5 個 LLM 後端）的實戰驗證。
 
 所有倉庫均為中英雙語（zh-CN / zh-Hant / EN）。方法論倉庫使用 `en/` 和 `zh-Hant/` 獨立完整翻譯；代碼倉庫使用內聯雙語 + 中文可折疊。
-
-[開放合作](#--lets-connect) · [從哪裡開始](#--start-here)
 
 </details>
