@@ -1,3 +1,5 @@
+> English | [简体中文](README.zh-CN.md) | [正體中文](README.zh-Hant.md)
+
 ### Hi, I'm redamancy231 👋
 
 **I build reproducible Human-AI collaboration frameworks, quantitative engineering tools, and multi-model LLM review pipelines.**
@@ -12,29 +14,29 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 
 | Project | What it is | Status |
 |------|------|:--:|
-| [**AI 协作框架**](https://github.com/redamancy231-create/ai-collaboration-framework) | 人类-AI协作全生命周期方法论 — 3 次对照实验 + 50+ 轮跨后端审查 | [![active](https://img.shields.io/badge/status-active-brightgreen)]() |
-| [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 条实战踩坑速查手册 — AI 协作框架的"错题本"伴侣 | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt 对照实验案例手册 — 含两个真实实验结果（阴性结果公开） | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**AI 协作框架**](https://github.com/redamancy231-create/ai-collaboration-framework) | Full-lifecycle Human-AI collaboration framework — 3 controlled experiments + 50+ rounds of cross-model review | [![active](https://img.shields.io/badge/status-active-brightgreen)]() |
+| [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 battle-tested lessons at a glance — the "error logbook" companion to the AI Collaboration Framework | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt experiment casebook — includes 2 real experiment results (negative results published) | [![published](https://img.shields.io/badge/status-published-blue)]() |
 
 ### Review & Quality Assurance
 
 | Project | What it is | Status |
 |------|------|:--:|
-| [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | 多模型独立审查 SOP · Prompt 模板 · 对抗式挑战框架 | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | Multi-model independent review SOP · Prompt templates · Adversarial challenge framework | [![published](https://img.shields.io/badge/status-published-blue)]() |
 
 ### Dev Tools
 
 | Project | What it is | Status |
 |------|------|:--:|
-| [**DOCX Pipeline**](https://github.com/redamancy231-create/docx-pipeline) | Markdown → 高质量中文 DOCX — 双后端 + Mermaid 渲染 + 4 套预设模板 | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**Claude Skills**](https://github.com/redamancy231-create/claude-skills) | 3 个实战验证的 Claude Code Skill — 会话交接 · CLAUDE.md 编写 · 事前否决 | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**DOCX Pipeline**](https://github.com/redamancy231-create/docx-pipeline) | Markdown → high-quality Chinese DOCX — dual LLM backend + Mermaid rendering + 4 templates | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**Claude Skills**](https://github.com/redamancy231-create/claude-skills) | 3 battle-tested Claude Code Skills — session handoff · CLAUDE.md authoring · pre-emptive veto | [![published](https://img.shields.io/badge/status-published-blue)]() |
 
 ### Quant Engineering
 
 | Project | What it is | Status |
 |------|------|:--:|
-| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 加速量化策略核心 — DTW 43x / 形态匹配 58x | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8 阶段多模型学术流水线 — 交叉双盲审 + 开卷/盲答对照实验 | [![demo](https://img.shields.io/badge/status-methodology_demo-yellow)]() |
+| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 accelerated quant strategy core — DTW 43× / pattern matching 58× | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8-stage multi-model academic pipeline — double-blind cross-review + open/closed-book experiment | [![demo](https://img.shields.io/badge/status-methodology_demo-yellow)]() |
 
 ---
 
@@ -64,24 +66,4 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 
 ---
 
-<details open>
-<summary><b>中文</b></summary>
-
-**我构建可复现的人类-AI协作框架、量化工程工具和多模型 LLM 审查管道。**
-
-我是金融工程本科生，把项目当作对照实验来跑。8 个仓库均经过跨模型独立审查（50+ 轮、5 个 LLM 后端）的实战验证。
-
-所有仓库均为中英双语（zh-CN / zh-Hant / EN）。方法论仓库使用 `en/` 和 `zh-Hant/` 独立完整翻译；代码仓库使用内联双语 + 中文可折叠。
-
-</details>
-
-<details>
-<summary><b>正體中文</b></summary>
-
-**我構建可再現的人類-AI協作框架、量化工程工具和多模型 LLM 審查管道。**
-
-我是金融工程本科生，把專案當作對照實驗來跑。8 個倉庫均經過跨模型獨立審查（50+ 輪、5 個 LLM 後端）的實戰驗證。
-
-所有倉庫均為中英雙語（zh-CN / zh-Hant / EN）。方法論倉庫使用 `en/` 和 `zh-Hant/` 獨立完整翻譯；代碼倉庫使用內聯雙語 + 中文可折疊。
-
-</details>
+> English | [简体中文](README.zh-CN.md) | [正體中文](README.zh-Hant.md)
