@@ -4,7 +4,7 @@
 
 **I build reproducible Human-AI collaboration frameworks, quantitative engineering tools, and multi-model LLM review pipelines.**
 
-All 8 repos are battle-tested through 50+ rounds of cross-model independent review across 5 LLM backends.
+All 8 repos are battle-tested through cross-model independent review.
 
 All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone file, cross-linked via the language bar above.
 
