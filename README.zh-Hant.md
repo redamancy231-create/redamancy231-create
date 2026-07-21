@@ -1,12 +1,12 @@
-> [English](README.md) | [簡體中文](README.zh-CN.md) | 正體中文
+> [简体中文](README.md) | [English](README.en.md) | 正體中文
 
 ### Hi, I'm redamancy231 👋
 
 **我構建可再現的人類-AI協作框架、量化工程工具和多模型 LLM 審查管道。**
 
-我是金融工程本科生，把專案當作對照實驗來跑。8 個倉庫均經過跨模型獨立審查（50+ 輪、5 個 LLM 後端）的實戰驗證。
+8 個倉庫均經過跨模型獨立審查（50+ 輪、5 個 LLM 後端）的實戰驗證。
 
-所有倉庫均為中英雙語（zh-CN / zh-Hant / EN）。方法論倉庫使用獨立完整翻譯；代碼倉庫使用內聯雙語 + 中文可折疊。
+所有倉庫均為三語（zh-CN / zh-Hant / EN），每種語言獨立檔案，透過語言欄交叉連結。
 
 ---
 
@@ -68,4 +68,4 @@
 
 ---
 
-> [English](README.md) | [簡體中文](README.zh-CN.md) | 正體中文
+> [简体中文](README.md) | [English](README.en.md) | 正體中文
