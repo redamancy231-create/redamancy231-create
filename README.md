@@ -15,6 +15,7 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 | Project | What it is | Status |
 |------|------|:--:|
 | [**AI 协作框架**](https://github.com/redamancy231-create/ai-collaboration-framework) | 人类-AI协作全生命周期方法论 — 3 次对照实验 + 50+ 轮跨后端审查 | [![active](https://img.shields.io/badge/status-active-brightgreen)]() |
+| [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 条实战踩坑速查手册 — AI 协作框架的"错题本"伴侣 | [![published](https://img.shields.io/badge/status-published-blue)]() |
 | [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt 对照实验案例手册 — 含两个真实实验结果（阴性结果公开） | [![published](https://img.shields.io/badge/status-published-blue)]() |
 
 ### Review & Quality Assurance
@@ -48,6 +49,7 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 ## 📖 Start Here
 
 - **New to Human-AI collaboration?** → [AI 协作框架](https://github.com/redamancy231-create/ai-collaboration-framework)
+- **Want battle-tested lessons at a glance?** → [Methodology Handbook](https://github.com/redamancy231-create/methodology-handbook)
 - **Looking for review SOPs and prompt templates?** → [Independent Review Toolkit](https://github.com/redamancy231-create/independent-review-toolkit)
 - **Need Markdown → DOCX with Chinese typography?** → [DOCX Pipeline](https://github.com/redamancy231-create/docx-pipeline)
 - **Want battle-tested Claude Code Skills?** → [Claude Skills](https://github.com/redamancy231-create/claude-skills)
@@ -69,7 +71,7 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 
 **我构建可复现的人类-AI协作框架、量化工程工具和多模型 LLM 审查管道。**
 
-我是金融工程本科生，把项目当作对照实验来跑。7 个仓库均经过跨模型独立审查（50+ 轮、5 个 LLM 后端）的实战验证。
+我是金融工程本科生，把项目当作对照实验来跑。8 个仓库均经过跨模型独立审查（50+ 轮、5 个 LLM 后端）的实战验证。
 
 所有仓库均为中英双语（zh-CN / zh-Hant / EN）。方法论仓库使用 `en/` 和 `zh-Hant/` 独立完整翻译；代码仓库使用内联双语 + 中文可折叠。
 
@@ -82,7 +84,7 @@ I'm a financial engineering undergrad who treats projects as controlled experime
 
 **我構建可再現的人類-AI協作框架、量化工程工具和多模型 LLM 審查管道。**
 
-我是金融工程本科生，把專案當作對照實驗來跑。7 個倉庫均經過跨模型獨立審查（50+ 輪、5 個 LLM 後端）的實戰驗證。
+我是金融工程本科生，把專案當作對照實驗來跑。8 個倉庫均經過跨模型獨立審查（50+ 輪、5 個 LLM 後端）的實戰驗證。
 
 所有倉庫均為中英雙語（zh-CN / zh-Hant / EN）。方法論倉庫使用 `en/` 和 `zh-Hant/` 獨立完整翻譯；代碼倉庫使用內聯雙語 + 中文可折疊。
 
