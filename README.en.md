@@ -19,6 +19,7 @@ All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone f
 | [**AI 协作框架**](https://github.com/redamancy231-create/ai-collaboration-framework) | Full-lifecycle Human-AI collaboration framework — 3 controlled experiments + 50+ rounds of cross-model review | [![active](https://img.shields.io/badge/status-active-brightgreen)]() |
 | [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 battle-tested lessons at a glance — the "error logbook" companion to the AI Collaboration Framework | [![published](https://img.shields.io/badge/status-published-blue)]() |
 | [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt experiment casebook — includes 2 real experiment results (negative results published) | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8-stage multi-model academic pipeline — double-blind cross-review + open/closed-book experiment | [![demo](https://img.shields.io/badge/status-methodology_demo-yellow)]() |
 
 ### Review & Quality Assurance
 
@@ -38,7 +39,6 @@ All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone f
 | Project | What it is | Status |
 |------|------|:--:|
 | [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 accelerated quant strategy core — DTW 43× / pattern matching 58× | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8-stage multi-model academic pipeline — double-blind cross-review + open/closed-book experiment | [![demo](https://img.shields.io/badge/status-methodology_demo-yellow)]() |
 
 ---
 
