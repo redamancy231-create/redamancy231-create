@@ -19,6 +19,7 @@
 | [**AI 协作框架**](https://github.com/redamancy231-create/ai-collaboration-framework) | 人类-AI协作全生命周期方法论 — 3 次对照实验 + 50+ 轮跨后端审查 | [![active](https://img.shields.io/badge/status-active-brightgreen)]() |
 | [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 条实战踩坑速查手册 — AI 协作框架的"错题本"伴侣 | [![published](https://img.shields.io/badge/status-published-blue)]() |
 | [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt 对照实验案例手册 — 含两个真实实验结果（阴性结果公开） | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8 阶段多模型学术流水线 — 交叉双盲审 + 开卷/盲答对照实验 | [![demo](https://img.shields.io/badge/status-methodology_demo-yellow)]() |
 
 ### 审查与质量保证
 
@@ -38,7 +39,6 @@
 | 项目 | 简介 | 状态 |
 |------|------|:--:|
 | [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 加速量化策略核心 — DTW 43x / 形态匹配 58x | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8 阶段多模型学术流水线 — 交叉双盲审 + 开卷/盲答对照实验 | [![demo](https://img.shields.io/badge/status-methodology_demo-yellow)]() |
 
 ---
 
