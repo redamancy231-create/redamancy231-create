@@ -52,6 +52,7 @@
 
 - **剛接觸人類-AI 協作？** → [AI 協作框架](https://github.com/redamancy231-create/ai-collaboration-framework)
 - **想快速查閱實戰踩坑經驗？** → [Methodology Handbook](https://github.com/redamancy231-create/methodology-handbook)
+- **想設計 Prompt 對照實驗？** → [Prompt-TDD Methodology](https://github.com/redamancy231-create/prompt-tdd-methodology)
 - **需要審查 SOP 和 Prompt 範本？** → [Independent Review Toolkit](https://github.com/redamancy231-create/independent-review-toolkit)
 - **需要 Markdown → 中文 DOCX 轉換？** → [DOCX Pipeline](https://github.com/redamancy231-create/docx-pipeline)
 - **需要實戰驗證的 Claude Code Skill？** → [Claude Skills](https://github.com/redamancy231-create/claude-skills)
