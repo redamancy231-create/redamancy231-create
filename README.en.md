@@ -52,6 +52,7 @@ All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone f
 
 - **New to Human-AI collaboration?** → [AI 协作框架](https://github.com/redamancy231-create/ai-collaboration-framework)
 - **Want battle-tested lessons at a glance?** → [Methodology Handbook](https://github.com/redamancy231-create/methodology-handbook)
+- **Designing prompt controlled experiments?** → [Prompt-TDD Methodology](https://github.com/redamancy231-create/prompt-tdd-methodology)
 - **Looking for review SOPs and prompt templates?** → [Independent Review Toolkit](https://github.com/redamancy231-create/independent-review-toolkit)
 - **Need Markdown → DOCX with Chinese typography?** → [DOCX Pipeline](https://github.com/redamancy231-create/docx-pipeline)
 - **Want battle-tested Claude Code Skills?** → [Claude Skills](https://github.com/redamancy231-create/claude-skills)
