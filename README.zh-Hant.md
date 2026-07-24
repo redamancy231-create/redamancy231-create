@@ -20,7 +20,7 @@
 | [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 條實戰踩坑速查手冊 — AI 協作框架的「錯題本」伴侶 | [![published](https://img.shields.io/badge/status-published-blue)]() |
 | [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt 對照實驗案例手冊 — 含兩個真實實驗結果（陰性結果公開） | [![published](https://img.shields.io/badge/status-published-blue)]() |
 | [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8 階段多模型學術流水線 — 交叉雙盲審 + 開卷/盲答對照實驗 | [![demo](https://img.shields.io/badge/status-methodology_demo-yellow)]() |
-| [**方法論提取方法論**](https://github.com/redamancy231-create/methodology-extraction-methodology) | 元層次方法論提取實驗 — 從22個專案中系統提取可復用方法論模式 | [![closed](https://img.shields.io/badge/status-CLOSED-inactive)]() |
+| [**方法論提取方法論**](https://github.com/redamancy231-create/methodology-extraction-methodology) | 元層次方法論提取實驗 — 從22個專案中系統提取可復用方法論模式 | [![maintenance](https://img.shields.io/badge/status-MAINTENANCE-yellow)]() |
 
 ### 審查與品質保證
 
