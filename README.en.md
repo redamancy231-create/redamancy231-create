@@ -20,7 +20,7 @@ All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone f
 | [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 battle-tested lessons at a glance — the "error logbook" companion to the AI Collaboration Framework | [![published](https://img.shields.io/badge/status-published-blue)]() |
 | [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt experiment casebook — includes 2 real experiment results (negative results published) | [![published](https://img.shields.io/badge/status-published-blue)]() |
 | [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8-stage multi-model academic pipeline — double-blind cross-review + open/closed-book experiment | [![demo](https://img.shields.io/badge/status-methodology_demo-yellow)]() |
-| [**Methodology Extraction Methodology**](https://github.com/redamancy231-create/methodology-extraction-methodology) | Meta-level methodology extraction experiment — systematic extraction from 22 projects | [![closed](https://img.shields.io/badge/status-CLOSED-inactive)]() |
+| [**Methodology Extraction Methodology**](https://github.com/redamancy231-create/methodology-extraction-methodology) | Meta-level methodology extraction experiment — systematic extraction from 22 projects | [![maintenance](https://img.shields.io/badge/status-MAINTENANCE-yellow)]() |
 
 ### Review & Quality Assurance
 
