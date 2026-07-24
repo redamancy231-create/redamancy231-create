@@ -20,7 +20,7 @@
 | [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 条实战踩坑速查手册 — AI 协作框架的"错题本"伴侣 | [![published](https://img.shields.io/badge/status-published-blue)]() |
 | [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt 对照实验案例手册 — 含两个真实实验结果（阴性结果公开） | [![published](https://img.shields.io/badge/status-published-blue)]() |
 | [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8 阶段多模型学术流水线 — 交叉双盲审 + 开卷/盲答对照实验 | [![demo](https://img.shields.io/badge/status-methodology_demo-yellow)]() |
-| [**方法论提取方法论**](https://github.com/redamancy231-create/methodology-extraction-methodology) | 元层次方法论提取实验 — 从22个项目中系统提取可复用方法论模式 | [![closed](https://img.shields.io/badge/status-CLOSED-inactive)]() |
+| [**方法论提取方法论**](https://github.com/redamancy231-create/methodology-extraction-methodology) | 元层次方法论提取实验 — 从22个项目中系统提取可复用方法论模式 | [![maintenance](https://img.shields.io/badge/status-MAINTENANCE-yellow)]() |
 
 ### 审查与质量保证
 
