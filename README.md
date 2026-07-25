@@ -16,37 +16,49 @@
 
 | 项目 | 简介 | 状态 |
 |------|------|:--:|
-| [**AI 协作框架**](https://github.com/redamancy231-create/ai-collaboration-framework) | 人类-AI协作全生命周期方法论 — 3 次对照实验 + 50+ 轮跨后端审查 | [![active](https://img.shields.io/badge/status-active-brightgreen)]() |
-| [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 条实战踩坑速查手册 — AI 协作框架的"错题本"伴侣 | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt 对照实验案例手册 — 含两个真实实验结果（阴性结果公开） | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8 阶段多模型学术流水线 — 交叉双盲审 + 开卷/盲答对照实验 | [![demo](https://img.shields.io/badge/status-methodology_demo-yellow)]() |
-| [**方法论提取方法论**](https://github.com/redamancy231-create/methodology-extraction-methodology) | 元层次方法论提取实验 — 从22个项目中系统提取可复用方法论模式 | [![maintenance](https://img.shields.io/badge/status-MAINTENANCE-yellow)]() |
+| [**AI 协作框架**](https://github.com/redamancy231-create/ai-collaboration-framework) | 人类-AI协作全生命周期方法论 — 3 次对照实验 + 50+ 轮跨后端审查 | active |
+| [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 条实战踩坑速查手册 — AI 协作框架的"错题本"伴侣 | published |
+| [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt 对照实验案例手册 — 含两个真实实验结果（阴性结果公开） | published |
+| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8 阶段多模型学术流水线 — 交叉双盲审 + 开卷/盲答对照实验 | demo |
+| [**方法论提取方法论**](https://github.com/redamancy231-create/methodology-extraction-methodology) | 元层次方法论提取实验 — 从22个项目中系统提取可复用方法论模式 | maintenance |
 
 ### 审查与质量保证
 
 | 项目 | 简介 | 状态 |
 |------|------|:--:|
-| [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | 多模型独立审查 SOP · Prompt 模板 · 对抗式挑战框架 | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI 协作阴性结果登记册 — 18 条目 × 8 领域，结构化"AI 实验失败了"数据库 | [![active](https://img.shields.io/badge/status-active-brightgreen)]() |
+| [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | 多模型独立审查 SOP · Prompt 模板 · 对抗式挑战框架 | published |
+| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI 协作阴性结果登记册 — 22 条目 × 10 领域，结构化"AI 实验失败了"数据库 | active |
 
 ### 开发工具
 
 | 项目 | 简介 | 状态 |
 |------|------|:--:|
-| [**DOCX Pipeline**](https://github.com/redamancy231-create/docx-pipeline) | Markdown → 高质量中文 DOCX — 双后端 + Mermaid 渲染 + 4 套预设模板 | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**Claude Skills**](https://github.com/redamancy231-create/claude-skills) | 3 个实战验证的 Claude Code Skill — 会话交接 · CLAUDE.md 编写 · 事前否决 | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**DOCX Pipeline**](https://github.com/redamancy231-create/docx-pipeline) | Markdown → 高质量中文 DOCX — 双后端 + Mermaid 渲染 + 4 套预设模板 | published |
+| [**Claude Skills**](https://github.com/redamancy231-create/claude-skills) | 3 个实战验证的 Claude Code Skill — 会话交接 · CLAUDE.md 编写 · 事前否决 | published |
 
 ### 量化工程
 
 | 项目 | 简介 | 状态 |
 |------|------|:--:|
-| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 加速量化策略核心 — DTW 43x / 形态匹配 58x | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 加速量化策略核心 — DTW 43x / 形态匹配 58x | published |
 
 ---
 
-## 🛠️ 技术栈
+```mermaid
+graph TB
+    F["🤖 AI 协作框架<br/>16.8万字 · 母舰"]
+    F --> H["📋 Handbook<br/>50条错题本"]
+    F --> R["🔍 Review Toolkit<br/>审查SOP+模板"]
+    F --> P["🧪 Prompt-TDD<br/>对照实验手册"]
+    F --> N["📊 Negative Results<br/>22条阴性结果"]
+    F --> S["⚡ Claude Skills<br/>3个实战Skill"]
+    F --> M["🔬 方法论提取<br/>22项目元分析"]
+    D["📄 DOCX Pipeline<br/>Markdown→DOCX"] -.->|独立工具| F
+    A["🎓 M&A 学术流水线<br/>8阶段×5模型"] -.->|应用演示| F
+    Q["📈 ETF-pybind11<br/>量化加速"] -.->|独立项目| F
+```
 
-![Python 3.12](https://img.shields.io/badge/Python-3.12-blue) ![C++20](https://img.shields.io/badge/C++-20-00599C) ![pybind11](https://img.shields.io/badge/pybind11-3.0.4-green) ![CMake](https://img.shields.io/badge/CMake-3.20-064F8C) ![MSVC 19.51](https://img.shields.io/badge/MSVC-19.51-purple) ![NumPy](https://img.shields.io/badge/NumPy-✔-013243)
+> **实线** = 从 AI 协作框架中提取/派生的子项目。**虚线** = 独立工具或应用演示。
 
 ---
 
