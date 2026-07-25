@@ -4,7 +4,7 @@
 
 **I build reproducible Human-AI collaboration frameworks, quantitative engineering tools, and multi-model LLM review pipelines.**
 
-All 9 repos are battle-tested through cross-model independent review.
+All 10 repos are battle-tested through cross-model independent review.
 
 All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone file, cross-linked via the language bar above.
 
@@ -27,6 +27,7 @@ All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone f
 | Project | What it is | Status |
 |------|------|:--:|
 | [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | Multi-model independent review SOP · Prompt templates · Adversarial challenge framework | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI Collaboration Negative Results Registry — 18 entries × 8 domains, a structured database of "AI experiments that failed" | [![active](https://img.shields.io/badge/status-active-brightgreen)]() |
 
 ### Dev Tools
 
@@ -55,6 +56,7 @@ All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone f
 - **Want battle-tested lessons at a glance?** → [Methodology Handbook](https://github.com/redamancy231-create/methodology-handbook)
 - **Designing prompt controlled experiments?** → [Prompt-TDD Methodology](https://github.com/redamancy231-create/prompt-tdd-methodology)
 - **Looking for review SOPs and prompt templates?** → [Independent Review Toolkit](https://github.com/redamancy231-create/independent-review-toolkit)
+- **Want to see "what doesn't work" in AI experiments?** → [Negative Results Registry](https://github.com/redamancy231-create/negative-results-registry)
 - **Need Markdown → DOCX with Chinese typography?** → [DOCX Pipeline](https://github.com/redamancy231-create/docx-pipeline)
 - **Want battle-tested Claude Code Skills?** → [Claude Skills](https://github.com/redamancy231-create/claude-skills)
 - **Interested in quant engineering?** → [ETF Pattern Match — pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)
