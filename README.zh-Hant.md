@@ -4,7 +4,7 @@
 
 **我構建可再現的人類-AI協作框架、量化工程工具和多模型 LLM 審查管道。**
 
-9 個倉庫均經過跨模型獨立審查的實戰驗證。
+10 個倉庫均經過跨模型獨立審查的實戰驗證。
 
 所有倉庫均為三語（zh-CN / zh-Hant / EN），每種語言獨立檔案，透過語言欄交叉連結。
 
@@ -27,6 +27,7 @@
 | 專案 | 簡介 | 狀態 |
 |------|------|:--:|
 | [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | 多模型獨立審查 SOP · Prompt 範本 · 對抗式挑戰框架 | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI 協作陰性結果登記冊 — 18 條目 × 8 領域，結構化「AI 實驗失敗了」資料庫 | [![active](https://img.shields.io/badge/status-active-brightgreen)]() |
 
 ### 開發工具
 
@@ -55,6 +56,7 @@
 - **想快速查閱實戰踩坑經驗？** → [Methodology Handbook](https://github.com/redamancy231-create/methodology-handbook)
 - **想設計 Prompt 對照實驗？** → [Prompt-TDD Methodology](https://github.com/redamancy231-create/prompt-tdd-methodology)
 - **需要審查 SOP 和 Prompt 範本？** → [Independent Review Toolkit](https://github.com/redamancy231-create/independent-review-toolkit)
+- **想看 AI 實驗中「什麼不 work」？** → [Negative Results Registry](https://github.com/redamancy231-create/negative-results-registry)
 - **需要 Markdown → 中文 DOCX 轉換？** → [DOCX Pipeline](https://github.com/redamancy231-create/docx-pipeline)
 - **需要實戰驗證的 Claude Code Skill？** → [Claude Skills](https://github.com/redamancy231-create/claude-skills)
 - **對量化工程感興趣？** → [ETF Pattern Match — pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)
