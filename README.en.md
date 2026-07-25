@@ -16,37 +16,49 @@ All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone f
 
 | Project | What it is | Status |
 |------|------|:--:|
-| [**AI 协作框架**](https://github.com/redamancy231-create/ai-collaboration-framework) | Full-lifecycle Human-AI collaboration framework — 3 controlled experiments + 50+ rounds of cross-model review | [![active](https://img.shields.io/badge/status-active-brightgreen)]() |
-| [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 battle-tested lessons at a glance — the "error logbook" companion to the AI Collaboration Framework | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt experiment casebook — includes 2 real experiment results (negative results published) | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8-stage multi-model academic pipeline — double-blind cross-review + open/closed-book experiment | [![demo](https://img.shields.io/badge/status-methodology_demo-yellow)]() |
-| [**Methodology Extraction Methodology**](https://github.com/redamancy231-create/methodology-extraction-methodology) | Meta-level methodology extraction experiment — systematic extraction from 22 projects | [![maintenance](https://img.shields.io/badge/status-MAINTENANCE-yellow)]() |
+| [**AI 协作框架**](https://github.com/redamancy231-create/ai-collaboration-framework) | Full-lifecycle Human-AI collaboration framework — 3 controlled experiments + 50+ rounds of cross-model review | active |
+| [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 battle-tested lessons at a glance — the "error logbook" companion | published |
+| [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt experiment casebook — includes 2 real experiment results (negative results published) | published |
+| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8-stage multi-model academic pipeline — double-blind cross-review + open/closed-book experiment | demo |
+| [**Methodology Extraction Methodology**](https://github.com/redamancy231-create/methodology-extraction-methodology) | Meta-level methodology extraction experiment — systematic extraction from 22 projects | maintenance |
 
 ### Review & Quality Assurance
 
 | Project | What it is | Status |
 |------|------|:--:|
-| [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | Multi-model independent review SOP · Prompt templates · Adversarial challenge framework | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI Collaboration Negative Results Registry — 18 entries × 8 domains, a structured database of "AI experiments that failed" | [![active](https://img.shields.io/badge/status-active-brightgreen)]() |
+| [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | Multi-model independent review SOP · Prompt templates · Adversarial challenge framework | published |
+| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI Collaboration Negative Results Registry — 22 entries × 10 domains, a structured database of "AI experiments that failed" | active |
 
 ### Dev Tools
 
 | Project | What it is | Status |
 |------|------|:--:|
-| [**DOCX Pipeline**](https://github.com/redamancy231-create/docx-pipeline) | Markdown → high-quality Chinese DOCX — dual LLM backend + Mermaid rendering + 4 templates | [![published](https://img.shields.io/badge/status-published-blue)]() |
-| [**Claude Skills**](https://github.com/redamancy231-create/claude-skills) | 3 battle-tested Claude Code Skills — session handoff · CLAUDE.md authoring · pre-emptive veto | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**DOCX Pipeline**](https://github.com/redamancy231-create/docx-pipeline) | Markdown → high-quality Chinese DOCX — dual backend + Mermaid rendering + 4 templates | published |
+| [**Claude Skills**](https://github.com/redamancy231-create/claude-skills) | 3 battle-tested Claude Code Skills — session handoff · CLAUDE.md authoring · pre-emptive veto | published |
 
 ### Quant Engineering
 
 | Project | What it is | Status |
 |------|------|:--:|
-| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 accelerated quant strategy core — DTW 43× / pattern matching 58× | [![published](https://img.shields.io/badge/status-published-blue)]() |
+| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 accelerated quant strategy core — DTW 43× / pattern matching 58× | published |
 
 ---
 
-## 🛠️ Toolchain
+```mermaid
+graph TB
+    F["🤖 AI Collaboration Framework<br/>168K chars · Mothership"]
+    F --> H["📋 Handbook<br/>50 lessons"]
+    F --> R["🔍 Review Toolkit<br/>SOP + templates"]
+    F --> P["🧪 Prompt-TDD<br/>Experiment casebook"]
+    F --> N["📊 Negative Results<br/>22 entries"]
+    F --> S["⚡ Claude Skills<br/>3 battle-tested skills"]
+    F --> M["🔬 Methodology Extraction<br/>22-project meta-analysis"]
+    D["📄 DOCX Pipeline<br/>Markdown→DOCX"] -.->|standalone tool| F
+    A["🎓 M&A Pipeline<br/>8-stage × 5 models"] -.->|application demo| F
+    Q["📈 ETF-pybind11<br/>Quant acceleration"] -.->|standalone project| F
+```
 
-![Python 3.12](https://img.shields.io/badge/Python-3.12-blue) ![C++20](https://img.shields.io/badge/C++-20-00599C) ![pybind11](https://img.shields.io/badge/pybind11-3.0.4-green) ![CMake](https://img.shields.io/badge/CMake-3.20-064F8C) ![MSVC 19.51](https://img.shields.io/badge/MSVC-19.51-purple) ![NumPy](https://img.shields.io/badge/NumPy-✔-013243)
+> **Solid lines** = derived/extracted from the AI Collaboration Framework. **Dashed lines** = standalone tools or application demos.
 
 ---
 
