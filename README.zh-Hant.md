@@ -4,7 +4,7 @@
 
 **我構建可再現的人類-AI協作框架、量化工程工具和多模型 LLM 審查管道。**
 
-10 個倉庫均經過跨模型獨立審查的實戰驗證。
+11 個倉庫均經過跨模型獨立審查的實戰驗證。
 
 所有倉庫均為三語（zh-CN / zh-Hant / EN），每種語言獨立檔案，透過語言欄交叉連結。
 
@@ -40,7 +40,8 @@
 
 | 專案 | 簡介 | 狀態 |
 |------|------|:--:|
-| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 加速量化策略核心 — DTW 43x / 形態匹配 58x | published |
+| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 加速量化策略核心 — DTW 34x / 形態匹配 53x | published |
+| [**ETF Pattern Match — PyO3**](https://github.com/redamancy231-create/etf-pattern-match-pyo3) | Rust/PyO3 重寫 ETF 形態匹配 — API 相容 C++ 原版，NRR-2026-023 C++ vs Rust 完整對比 | published |
 
 ---
 
@@ -55,7 +56,8 @@ graph TB
     F --> M["🔬 方法論提取<br/>22專案元分析"]
     D["📄 DOCX Pipeline<br/>Markdown→DOCX"] -.->|獨立工具| F
     A["🎓 M&A 學術流水線<br/>8階段×5模型"] -.->|應用展示| F
-    Q["📈 ETF-pybind11<br/>量化加速"] -.->|獨立專案| F
+    Q["📈 ETF-pybind11<br/>C++ 量化加速"] -.->|獨立專案| F
+    Q --> E["🦀 ETF-PyO3<br/>Rust 重寫"]
 ```
 
 > **實線** = 從 AI 協作框架中提取/衍生的子專案。**虛線** = 獨立工具或應用展示。
@@ -71,7 +73,7 @@ graph TB
 - **想看 AI 實驗中「什麼不 work」？** → [Negative Results Registry](https://github.com/redamancy231-create/negative-results-registry)
 - **需要 Markdown → 中文 DOCX 轉換？** → [DOCX Pipeline](https://github.com/redamancy231-create/docx-pipeline)
 - **需要實戰驗證的 Claude Code Skill？** → [Claude Skills](https://github.com/redamancy231-create/claude-skills)
-- **對量化工程感興趣？** → [ETF Pattern Match — pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)
+- **對量化工程感興趣？** → [ETF Pattern Match — pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)（C++ 原版）或 [ETF Pattern Match — PyO3](https://github.com/redamancy231-create/etf-pattern-match-pyo3)（Rust 重寫）
 - **用 LLM 搭建學術流水線？** → [M&A Case Study Pipeline](https://github.com/redamancy231-create/ma-case-study-pipeline)
 - **想看方法論提取實驗？** → [方法論提取方法論](https://github.com/redamancy231-create/methodology-extraction-methodology)
 
