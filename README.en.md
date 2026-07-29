@@ -4,7 +4,7 @@
 
 **I build reproducible Human-AI collaboration frameworks, quantitative engineering tools, and multi-model LLM review pipelines.**
 
-All 10 repos are battle-tested through cross-model independent review.
+All 11 repos are battle-tested through cross-model independent review.
 
 All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone file, cross-linked via the language bar above.
 
@@ -40,7 +40,8 @@ All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone f
 
 | Project | What it is | Status |
 |------|------|:--:|
-| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 accelerated quant strategy core — DTW 43× / pattern matching 58× | published |
+| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 accelerated quant strategy core — DTW 34× / pattern matching 53× | published |
+| [**ETF Pattern Match — PyO3**](https://github.com/redamancy231-create/etf-pattern-match-pyo3) | Rust/PyO3 rewrite of ETF pattern matching — API-compatible with C++ original, NRR-2026-023 C++ vs Rust full comparison | published |
 
 ---
 
@@ -55,7 +56,8 @@ graph TB
     F --> M["🔬 Methodology Extraction<br/>22-project meta-analysis"]
     D["📄 DOCX Pipeline<br/>Markdown→DOCX"] -.->|standalone tool| F
     A["🎓 M&A Pipeline<br/>8-stage × 5 models"] -.->|application demo| F
-    Q["📈 ETF-pybind11<br/>Quant acceleration"] -.->|standalone project| F
+    Q["📈 ETF-pybind11<br/>C++ quant acceleration"] -.->|standalone project| F
+    Q --> E["🦀 ETF-PyO3<br/>Rust rewrite"]
 ```
 
 > **Solid lines** = derived/extracted from the AI Collaboration Framework. **Dashed lines** = standalone tools or application demos.
@@ -71,7 +73,7 @@ graph TB
 - **Want to see "what doesn't work" in AI experiments?** → [Negative Results Registry](https://github.com/redamancy231-create/negative-results-registry)
 - **Need Markdown → DOCX with Chinese typography?** → [DOCX Pipeline](https://github.com/redamancy231-create/docx-pipeline)
 - **Want battle-tested Claude Code Skills?** → [Claude Skills](https://github.com/redamancy231-create/claude-skills)
-- **Interested in quant engineering?** → [ETF Pattern Match — pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)
+- **Interested in quant engineering?** → [ETF Pattern Match — pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11) (C++ original) or [ETF Pattern Match — PyO3](https://github.com/redamancy231-create/etf-pattern-match-pyo3) (Rust rewrite)
 - **Building academic pipelines with LLMs?** → [M&A Case Study Pipeline](https://github.com/redamancy231-create/ma-case-study-pipeline)
 - **Curious about methodology extraction?** → [Methodology Extraction Methodology](https://github.com/redamancy231-create/methodology-extraction-methodology)
 
