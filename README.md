@@ -27,7 +27,7 @@
 | 项目 | 简介 | 状态 |
 |------|------|:--:|
 | [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | 多模型独立审查 SOP · Prompt 模板 · 对抗式挑战框架 | published |
-| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI 协作阴性结果登记册 — 22 条目 × 10 领域，结构化"AI 实验失败了"数据库 | active |
+| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI 协作阴性结果登记册 — 23 条目 × 10 领域，结构化"AI 实验失败了"数据库 | active |
 
 ### 开发工具
 
@@ -51,7 +51,7 @@ graph TB
     F --> H["📋 Handbook<br/>50条错题本"]
     F --> R["🔍 Review Toolkit<br/>审查SOP+模板"]
     F --> P["🧪 Prompt-TDD<br/>对照实验手册"]
-    F --> N["📊 Negative Results<br/>22条阴性结果"]
+    F --> N["📊 Negative Results<br/>23条阴性结果"]
     F --> S["⚡ Claude Skills<br/>3个实战Skill"]
     F --> M["🔬 方法论提取<br/>22项目元分析"]
     D["📄 DOCX Pipeline<br/>Markdown→DOCX"] -.->|独立工具| F
