@@ -27,7 +27,7 @@ All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone f
 | Project | What it is | Status |
 |------|------|:--:|
 | [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | Multi-model independent review SOP · Prompt templates · Adversarial challenge framework | published |
-| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI Collaboration Negative Results Registry — 22 entries × 10 domains, a structured database of "AI experiments that failed" | active |
+| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI Collaboration Negative Results Registry — 23 entries × 10 domains, a structured database of "AI experiments that failed" | active |
 
 ### Dev Tools
 
@@ -51,7 +51,7 @@ graph TB
     F --> H["📋 Handbook<br/>50 lessons"]
     F --> R["🔍 Review Toolkit<br/>SOP + templates"]
     F --> P["🧪 Prompt-TDD<br/>Experiment casebook"]
-    F --> N["📊 Negative Results<br/>22 entries"]
+    F --> N["📊 Negative Results<br/>23 entries"]
     F --> S["⚡ Claude Skills<br/>3 battle-tested skills"]
     F --> M["🔬 Methodology Extraction<br/>22-project meta-analysis"]
     D["📄 DOCX Pipeline<br/>Markdown→DOCX"] -.->|standalone tool| F
