@@ -27,7 +27,7 @@
 | 專案 | 簡介 | 狀態 |
 |------|------|:--:|
 | [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | 多模型獨立審查 SOP · Prompt 範本 · 對抗式挑戰框架 | published |
-| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI 協作陰性結果登記冊 — 22 條目 × 10 領域，結構化「AI 實驗失敗了」資料庫 | active |
+| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI 協作陰性結果登記冊 — 23 條目 × 10 領域，結構化「AI 實驗失敗了」資料庫 | active |
 
 ### 開發工具
 
@@ -51,7 +51,7 @@ graph TB
     F --> H["📋 Handbook<br/>50條錯題本"]
     F --> R["🔍 Review Toolkit<br/>審查SOP+範本"]
     F --> P["🧪 Prompt-TDD<br/>對照實驗手冊"]
-    F --> N["📊 Negative Results<br/>22條陰性結果"]
+    F --> N["📊 Negative Results<br/>23條陰性結果"]
     F --> S["⚡ Claude Skills<br/>3個實戰Skill"]
     F --> M["🔬 方法論提取<br/>22專案元分析"]
     D["📄 DOCX Pipeline<br/>Markdown→DOCX"] -.->|獨立工具| F
