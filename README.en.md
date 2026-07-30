@@ -14,34 +14,34 @@ All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone f
 
 ### Methodology
 
-| Project | What it is | Status |
-|------|------|:--:|
-| [**AI 协作框架**](https://github.com/redamancy231-create/ai-collaboration-framework) | Full-lifecycle Human-AI collaboration framework — 3 controlled experiments + 50+ rounds of cross-model review | active |
-| [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 battle-tested lessons at a glance — the "error logbook" companion | published |
-| [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt experiment casebook — includes 2 real experiment results (negative results published) | published |
-| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8-stage multi-model academic pipeline — double-blind cross-review + open/closed-book experiment | demo |
-| [**Methodology Extraction Methodology**](https://github.com/redamancy231-create/methodology-extraction-methodology) | Meta-level methodology extraction experiment — systematic extraction from 22 projects | maintenance |
+| Project | What it is | Release | Status |
+|------|------|:--:|:--:|
+| [**AI 协作框架**](https://github.com/redamancy231-create/ai-collaboration-framework) | Full-lifecycle Human-AI collaboration framework — 3 controlled experiments + 50+ rounds of cross-model review | ![Release](https://img.shields.io/github/v/release/redamancy231-create/ai-collaboration-framework) | active |
+| [**Methodology Handbook**](https://github.com/redamancy231-create/methodology-handbook) | 50 battle-tested lessons at a glance — the "error logbook" companion | ![Release](https://img.shields.io/github/v/release/redamancy231-create/methodology-handbook) | published |
+| [**Prompt-TDD Methodology**](https://github.com/redamancy231-create/prompt-tdd-methodology) | Prompt experiment casebook — includes 2 real experiment results (negative results published) | ![Release](https://img.shields.io/github/v/release/redamancy231-create/prompt-tdd-methodology) | published |
+| [**M&A Case Study Pipeline**](https://github.com/redamancy231-create/ma-case-study-pipeline) | 8-stage multi-model academic pipeline — double-blind cross-review + open/closed-book experiment | ![Release](https://img.shields.io/github/v/release/redamancy231-create/ma-case-study-pipeline) | demo |
+| [**Methodology Extraction Methodology**](https://github.com/redamancy231-create/methodology-extraction-methodology) | Meta-level methodology extraction experiment — systematic extraction from 22 projects | ![Release](https://img.shields.io/github/v/release/redamancy231-create/methodology-extraction-methodology) | maintenance |
 
 ### Review & Quality Assurance
 
-| Project | What it is | Status |
-|------|------|:--:|
-| [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | Multi-model independent review SOP · Prompt templates · Adversarial challenge framework | published |
-| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI Collaboration Negative Results Registry — 23 entries × 10 domains, a structured database of "AI experiments that failed" | active |
+| Project | What it is | Release | Status |
+|------|------|:--:|:--:|
+| [**Independent Review Toolkit**](https://github.com/redamancy231-create/independent-review-toolkit) | Multi-model independent review SOP · Prompt templates · Adversarial challenge framework | ![Release](https://img.shields.io/github/v/release/redamancy231-create/independent-review-toolkit) | published |
+| [**Negative Results Registry**](https://github.com/redamancy231-create/negative-results-registry) | AI Collaboration Negative Results Registry — 23 entries × 10 domains, a structured database of "AI experiments that failed" | ![Release](https://img.shields.io/github/v/release/redamancy231-create/negative-results-registry) | active |
 
 ### Dev Tools
 
-| Project | What it is | Status |
-|------|------|:--:|
-| [**DOCX Pipeline**](https://github.com/redamancy231-create/docx-pipeline) | Markdown → high-quality Chinese DOCX — dual backend + Mermaid rendering + 4 templates | published |
-| [**Claude Skills**](https://github.com/redamancy231-create/claude-skills) | 3 battle-tested Claude Code Skills — session handoff · CLAUDE.md authoring · pre-emptive veto | published |
+| Project | What it is | Release | Status |
+|------|------|:--:|:--:|
+| [**DOCX Pipeline**](https://github.com/redamancy231-create/docx-pipeline) | Markdown → high-quality Chinese DOCX — dual backend + Mermaid rendering + 4 templates | ![Release](https://img.shields.io/github/v/release/redamancy231-create/docx-pipeline) | published |
+| [**Claude Skills**](https://github.com/redamancy231-create/claude-skills) | 3 battle-tested Claude Code Skills — session handoff · CLAUDE.md authoring · pre-emptive veto | ![Release](https://img.shields.io/github/v/release/redamancy231-create/claude-skills) | published |
 
 ### Quant Engineering
 
-| Project | What it is | Status |
-|------|------|:--:|
-| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 accelerated quant strategy core — DTW 34× / pattern matching 53× | published |
-| [**ETF Pattern Match — PyO3**](https://github.com/redamancy231-create/etf-pattern-match-pyo3) | Rust/PyO3 rewrite of ETF pattern matching — API-compatible with C++ original, NRR-2026-023 C++ vs Rust full comparison | published |
+| Project | What it is | Release | Status |
+|------|------|:--:|:--:|
+| [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 accelerated quant strategy core — DTW 34× / pattern matching 53× | ![Release](https://img.shields.io/github/v/release/redamancy231-create/etf-pattern-match-pybind11) | published |
+| [**ETF Pattern Match — PyO3**](https://github.com/redamancy231-create/etf-pattern-match-pyo3) | Rust/PyO3 rewrite of ETF pattern matching — API-compatible with C++ original, NRR-2026-023 C++ vs Rust full comparison | ![Release](https://img.shields.io/github/v/release/redamancy231-create/etf-pattern-match-pyo3) | published |
 
 ---
 
