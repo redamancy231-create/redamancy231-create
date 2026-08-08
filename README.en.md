@@ -4,7 +4,7 @@
 
 **I build reproducible Human-AI collaboration frameworks, quantitative engineering tools, and multi-model LLM review pipelines.**
 
-All 11 repos are battle-tested through cross-model independent review.
+All 12 repos are battle-tested through cross-model independent review.
 
 All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone file, cross-linked via the language bar above.
 
@@ -76,6 +76,7 @@ graph TB
 - **Need Markdown → DOCX with Chinese typography?** → [DOCX Pipeline](https://github.com/redamancy231-create/docx-pipeline)
 - **Want battle-tested Claude Code Skills?** → [Claude Skills](https://github.com/redamancy231-create/claude-skills)
 - **Interested in quant engineering?** → [ETF Pattern Match — pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11) (C++ original) or [ETF Pattern Match — PyO3](https://github.com/redamancy231-create/etf-pattern-match-pyo3) (Rust rewrite)
+- **Need GPU cross-sectional factor analysis?** → [factor-cuda](https://github.com/redamancy231-create/factor-cuda) (CUDA-accelerated rank / correlation / IC / parameter scan, E2E ~3.0×)
 - **Building academic pipelines with LLMs?** → [M&A Case Study Pipeline](https://github.com/redamancy231-create/ma-case-study-pipeline)
 - **Curious about methodology extraction?** → [Methodology Extraction Methodology](https://github.com/redamancy231-create/methodology-extraction-methodology)
 

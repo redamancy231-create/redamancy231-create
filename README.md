@@ -4,7 +4,7 @@
 
 **我构建可复现的人类-AI协作框架、量化工程工具和多模型 LLM 审查管道。**
 
-11 个仓库均经过跨模型独立审查的实战验证。
+12 个仓库均经过跨模型独立审查的实战验证。
 
 所有仓库均为三语（zh-CN / zh-Hant / EN），每种语言独立文件，通过语言栏交叉链接。
 
@@ -76,6 +76,7 @@ graph TB
 - **需要 Markdown → 中文 DOCX 转换？** → [DOCX Pipeline](https://github.com/redamancy231-create/docx-pipeline)
 - **需要实战验证的 Claude Code Skill？** → [Claude Skills](https://github.com/redamancy231-create/claude-skills)
 - **对量化工程感兴趣？** → [ETF Pattern Match — pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)（C++ 原版）或 [ETF Pattern Match — PyO3](https://github.com/redamancy231-create/etf-pattern-match-pyo3)（Rust 重写）
+- **需要 GPU 因子截面分析？** → [factor-cuda](https://github.com/redamancy231-create/factor-cuda)（CUDA 加速量化因子截面分析：排序/相关/IC/参数扫描，E2E ~3.0×）
 - **用 LLM 搭建学术流水线？** → [M&A Case Study Pipeline](https://github.com/redamancy231-create/ma-case-study-pipeline)
 - **想看方法论提取实验？** → [方法论提取方法论](https://github.com/redamancy231-create/methodology-extraction-methodology)
 
