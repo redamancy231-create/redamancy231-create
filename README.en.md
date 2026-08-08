@@ -59,6 +59,7 @@ graph TB
     A["🎓 M&A Pipeline<br/>8-stage × 5 models"] -.->|application demo| F
     Q["📈 ETF-pybind11<br/>C++ quant acceleration"] -.->|standalone project| F
     Q --> E["🦀 ETF-PyO3<br/>Rust rewrite"]
+    C["🚀 factor-cuda<br/>CUDA cross-sectional analysis"] -.->|standalone project| F
 ```
 
 > **Solid lines** = derived/extracted from the AI Collaboration Framework. **Dashed lines** = standalone tools or application demos.
