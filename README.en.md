@@ -42,6 +42,7 @@ All repos are trilingual (zh-CN / zh-Hant / EN). Each language is a standalone f
 |------|------|:--:|:--:|
 | [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 accelerated quant strategy core — DTW 34× / pattern matching 53× | ![Release](https://img.shields.io/github/v/release/redamancy231-create/etf-pattern-match-pybind11) | published |
 | [**ETF Pattern Match — PyO3**](https://github.com/redamancy231-create/etf-pattern-match-pyo3) | Rust/PyO3 rewrite of ETF pattern matching — API-compatible with C++ original, NRR-2026-023 C++ vs Rust full comparison | ![Release](https://img.shields.io/github/v/release/redamancy231-create/etf-pattern-match-pyo3) | published |
+| [**factor-cuda**](https://github.com/redamancy231-create/factor-cuda) | CUDA-accelerated cross-sectional factor analysis — rank / correlation / IC / parameter scan, memory trilogy validated, E2E ~3.0× | ![Release](https://img.shields.io/github/v/release/redamancy231-create/factor-cuda) | published |
 
 ---
 

@@ -42,6 +42,7 @@
 |------|------|:--:|:--:|
 | [**ETF Pattern Match — pybind11**](https://github.com/redamancy231-create/etf-pattern-match-pybind11) | pybind11/C++20 加速量化策略核心 — DTW 34x / 形态匹配 53x | ![Release](https://img.shields.io/github/v/release/redamancy231-create/etf-pattern-match-pybind11) | published |
 | [**ETF Pattern Match — PyO3**](https://github.com/redamancy231-create/etf-pattern-match-pyo3) | Rust/PyO3 重写 ETF 形态匹配 — API 兼容 C++ 原版，NRR-2026-023 C++ vs Rust 完整对比 | ![Release](https://img.shields.io/github/v/release/redamancy231-create/etf-pattern-match-pyo3) | published |
+| [**factor-cuda**](https://github.com/redamancy231-create/factor-cuda) | CUDA 加速量化因子截面分析 — 截面排序/相关/IC/参数扫描，内存三件套实测闭合，E2E ~3.0× | ![Release](https://img.shields.io/github/v/release/redamancy231-create/factor-cuda) | published |
 
 ---
 
